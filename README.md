@@ -1,6 +1,6 @@
 # C++ Ray Tracer
 
-A multithreaded ray tracer written from scratch in C++17, with no graphics libraries. It renders photorealistic images of spheres with matte, metal and glass materials, soft shadows, reflections, refraction and camera depth of field.
+A multithreaded ray tracer written in C++17, with no graphics libraries. It renders photorealistic images of spheres with matte, metal and glass materials, soft shadows, reflections, refraction and camera depth of field.
 
 ![Rendered scene](images/render.png)
 
